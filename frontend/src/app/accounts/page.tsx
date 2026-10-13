@@ -162,7 +162,7 @@ export default function AccountsPage() {
     <div className="flex-1 flex flex-col">
       {/* Header */}
       <header className="bg-header-bg text-header-text px-4 py-3 flex items-center justify-between">
-        <h1 className="text-lg font-semibold">MonkeyMan - Campaigns</h1>
+        <h1 className="text-lg font-semibold">Vasbyt - Campaigns</h1>
         <div className="flex items-center gap-2">
           <Link href="/" className="text-sm px-3 py-1.5 rounded-full bg-white/15 hover:bg-white/25">
             ← Back to chats

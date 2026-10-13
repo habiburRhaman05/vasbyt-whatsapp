@@ -17,7 +17,7 @@ import {
 import { chatTitle, playChime, resolveChatName } from "@/lib/util";
 import type { Account, Chat, Message } from "@/lib/api";
 
-const BASE_TITLE = "MonkeyMan - Campaigns";
+const BASE_TITLE = "Vasbyt - Campaigns";
 
 /** Mounted once in the root layout: owns the WebSocket, notifications and the tab title. */
 export default function Realtime() {
